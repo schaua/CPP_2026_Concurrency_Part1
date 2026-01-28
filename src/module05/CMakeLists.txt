@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 4.2.1) # or whatever version you want to use
 # e.g.
 # cmake_minimum_required(VERSION 3.15...3.28)
 
-set(WORKING_NAME Demo04)
+set(WORKING_NAME Demo05)
 
 project(${WORKING_NAME} LANGUAGES CXX)
 
